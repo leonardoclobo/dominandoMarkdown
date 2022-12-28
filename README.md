@@ -4,9 +4,9 @@
 ## Criando um menu
 # Menu
 
-(Headings)[#headins]
-(Formatação de Texto)[#formatação-de-texto]
-(Imagens e links)[#imagens-e-links]
+[Headings](#headins)
+[Formatação de Texto](#formatação-de-texto)
+[Imagens e links](#imagens-e-links)
 
 ## Headins
 
