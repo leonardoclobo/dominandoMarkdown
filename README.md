@@ -48,6 +48,12 @@ Danso dois enters e dois tabs abaixo do item, criamos um sub item
         1. subitem 1
         2. subitem 2
 
-        
+
 2. Item 2.
 3. Item 3.
+
+## Blockquote
+
+> Este é um bloquote usado para destacar alguma área
+>
+> Use uma tag em branco para pular linha dentro do bloquote
