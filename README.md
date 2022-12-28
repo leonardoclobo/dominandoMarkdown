@@ -19,8 +19,14 @@ Também pode usar a _**concatenação**_ das tags
 
 ## Imagens e links
 
+### Imagens
 Para imagens coloque o sinal de exclamação e depois entre colchetes adicione o título da imagem e entre parentes o link da imagem
 
 ![Primeira Imagem](img-loto-02.jpg)
+
+### Links
+Para adicionar links é só remover a exclaamação
+
+[link instagram](https://www.instagram.com/leo.c.lobo/)
 
 
