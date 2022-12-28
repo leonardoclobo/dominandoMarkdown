@@ -37,4 +37,6 @@ Para adicionar links é só remover a exclaamação
  * Item 3
 
 ### Listas Ordenadas
-
+1. item 1
+2. item 2
+3. item 3
