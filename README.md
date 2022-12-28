@@ -41,6 +41,12 @@ Para adicionar links é só remover a exclaamação
 2. item 2
 3. item 3
 
+## Criando uma task list
+
+- [ ] Item 1
+- [x] Item 2
+- [ ] Item 3
+
 Danso dois enters e dois tabs abaixo do item, criamos um sub item
 
 1. item 1.
