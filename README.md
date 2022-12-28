@@ -5,7 +5,9 @@
 # Menu
 
 [Headings](#headins)
+
 [Formatação de Texto](#formatação-de-texto)
+
 [Imagens e links](#imagens-e-links)
 
 ## Headins
