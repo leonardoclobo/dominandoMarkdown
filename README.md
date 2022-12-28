@@ -29,4 +29,12 @@ Para adicionar links é só remover a exclaamação
 
 [link instagram](https://www.instagram.com/leo.c.lobo/)
 
+## Trabalhando com listas
+
+### Não ordenadas
+ * item 1 
+ * item 2
+ * Item 3
+
+### Listas Ordenadas
 
