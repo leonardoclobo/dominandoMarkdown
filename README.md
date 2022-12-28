@@ -76,3 +76,10 @@ Danso dois enters e dois tabs abaixo do item, criamos um sub item
         return 'Bem vindo ' + name
     }
 ```
+
+## Trabalhando com tabelas
+
+Nome | número | nota
+-----|--------|------
+Leonardo | 13| 10
+luciano | 12 | 9
