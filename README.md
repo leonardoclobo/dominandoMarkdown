@@ -41,9 +41,13 @@ Para adicionar links é só remover a exclaamação
 2. item 2
 3. item 3
 
-Danso dois tabs abaixo do item, criamos um sub item
+Danso dois enters e dois tabs abaixo do item, criamos um sub item
 
-1. item 1
-        1. Item 2
-        2. Item 3
-2. Item 2
+1. item 1.
+
+        1. subitem 1
+        2. subitem 2
+
+        
+2. Item 2.
+3. Item 3.
