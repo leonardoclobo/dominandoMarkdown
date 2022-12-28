@@ -55,5 +55,18 @@ Danso dois enters e dois tabs abaixo do item, criamos um sub item
 ## Blockquote
 
 > Este é um bloquote usado para destacar alguma área
->
+> 
 > Use uma tag em branco para pular linha dentro do bloquote
+
+## Colocando um trecho de código
+```
+<h1>
+    colocando um trecho de código sem hilight da linguagem
+</h1>
+
+```
+```js
+    function showName(name){
+        return 'Bem vindo ' + name
+    }
+```
